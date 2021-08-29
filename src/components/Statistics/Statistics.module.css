@@ -1,0 +1,19 @@
+.statList {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 25px;
+  font-weight: 700;
+}
+
+.label {
+  font-size: 14px;
+}
+
+.percentage {
+  font-size: 18px;
+}
